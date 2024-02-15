@@ -11,3 +11,5 @@ chose whether or not you want to lemmatize the text (y/n)
 
 ### Project submission
 You can find the PDF with the full writeup in the reposity under `NLP Homework 1.pdf`
+In that PDF, the link if not clickable can be found at https://silk-impatiens-c4e.notion.site/NLP-Homework-1-Diagrams-ef18f475bcba4043b38feea483de0c87?pvs=4 
+  
